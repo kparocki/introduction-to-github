@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is definitely not the same text as in main
